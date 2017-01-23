@@ -28,7 +28,7 @@ a coder for data scientific work.
 
 8) What are your experiences with R (classes? projects? internships? etc)?  
 classes in uw
-
+ 
 
 9) Who taught you linear regression?  Where (e.g. STAT 333)?  When?
 
